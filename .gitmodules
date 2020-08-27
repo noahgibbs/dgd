@@ -1,6 +1,3 @@
 [submodule "lpc-doc"]
 	path = lpc-doc
 	url = git@github.com:ChatTheatre/lpc-doc.git
-[submodule "dgd/lpc-doc"]
-	path = dgd/lpc-doc
-	url = https://github.com/ChatTheatre/lpc-doc
